@@ -8,8 +8,8 @@
 		"vscode": {
 			"extensions": [
 				"james-yu.latex-workshop",
-				"vscodevim.vim",
-				"valentjn.vscode-ltex"
+				"vscodevim.vim"
+				// "valentjn.vscode-ltex"
 			]
 		}
 	}
