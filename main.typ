@@ -1,130 +1,94 @@
-Lisan al-Gaib
+Justin Hoang
 
-#link("mailto:name@gmail.com")[name\@gmail.com] |
-#link("https://mitcommlab.mit.edu/meche/commkit/portfolio/")[portfolio.com]
-|
-#link("https://old.reddit.com/r/EngineeringResumes/wiki/index#wiki_portfolios")[github.com/name]
+#link("mailto:j124.dev@gmail.com")[j124.dev\@gmail.com] |
+#link("https://www.linkedin.com/in/jhoang124/")[linkedin/in/jhoang124] |
+#link("https://github.com/suasuasuasuasua")[github/suasuasuasuasua]
+
+= Summary
+<summary>
+Motivated software engineer with a background in developing analytical
+frameworks as well as modeling and simulation. Experienced in research
+and development. #strong[Hold an active TS/SCI clearance as of May
+2024];. Effective in project management with agile methodologies and
+software architecture and planning. Strong interest in artificial
+intelligence and machine learning. Committed to continuous learning and
+staying up-to-date with the latest technologies and industry trends.
 
 = Skills
 <skills>
-#strong[CAD:] Siemens NX, CATIA V5, SolidWorks\
-#strong[Analysis:] Thermal Desktop, Abaqus, LS-DYNA, STAR-CCM+
+#strong[Programming Languages] C, C++, Python, Swift, Java, C\#, Bash \
+#strong[Operating Systems] Linux \(Debian, RHEL, NixOS, Arch), macOS \
+#strong[DevOps Tools] Docker, AWS EC2 \
+#strong[Project Management] Git, Github, Gitlab, Jira \
 
 = Experience
 <experience>
-#strong[Job Title,] #link("https://www.fstl1992.com/")[Company] – City, ST June
-2022 – Present\
+#strong[Software Engineer Asc.]
+#link("https://www.lockheedmartin.com/en-us/capabilities/space.html")[Lockheed Martin Space]
+– Littleton, CO May 2023 – Present \
 
-- #strong[STAR:] #strong[S];ituation #strong[T];ask #strong[A];ction
-  #strong[R];esult:
-  #link(
-    "https://www.levels.fyi/blog/applying-star-method-resumes.html",
-  )[#underline[article 1];];,
-  #link("https://resumegenius.com/blog/resume-help/star-method-resume")[#underline[article 2];]
+- Worked in research and development, supporting cutting-edge projects
+  from various stages of technical readiness levels by valdiating
+  theoretical assertions for satellite communication and radar systems
+  with realistic software simulations and modeling
 
-- #strong[STAR:] Situation Task Action Result
+  - Designed an analytical framework in Python to assess the performance
+    of the wideband electronically steered array \(ESA) for the
+    #link("https://news.lockheedmartin.com/ESA_payload_demonstrator")[Tantrum ESA demonstration]
 
-- #strong[STAR:] Situation Task Action Result
+  - Received recognition at the 2024 Lockheed Martin Space Awards Night
+    for exceptional contributions on the Tantrum program
 
-- #strong[STAR:] Situation Task Action Result
+- Acted as scrum master for a small team of software engineers by
+  organizing weekly meetings, defining and tracking issues in Gitlab,
+  and maintaining a strong line of communication with the customer
 
-- #strong[STAR:] Situation Task Action Result
-
-#strong[Job Title,] #link("https://www.fstl1992.com/")[Company] – City, ST Jan
-2021 – May 2022\
-
-- #strong[XYZ:] Accomplished #strong[X] as measured by #strong[Y] by doing #strong[Z];:
-  #link(
-    "https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html",
-  )[#underline[article 1];];,
-  #link("https://elevenrecruiting.com/create-an-effective-resume-xyz-resume-format/")[#underline[article 2];]
-
-- #strong[XYZ:] Accomplished X as measured by Y by doing Z
-
-- #strong[XYZ:] Accomplished X as measured by Y by doing Z
-
-- #strong[XYZ:] Accomplished X as measured by Y by doing Z
-
-#strong[Job Title,] #link("https://www.fstl1992.com/")[Company] – City, ST Aug
-2014 – Sept 2020\
-
-- #strong[CAR:] #strong[C];hallenge #strong[A];ction #strong[R];esult:
-  #link(
-    "https://ca.indeed.com/career-advice/resumes-cover-letters/challenge-action-result-resume",
-  )[#underline[article 1];];,
-  #link("https://www.topresume.com/career-advice/how-to-get-more-results-with-a-car-resume")[#underline[article 2];]
-
-- #strong[CAR:] Challenge Action Result
-
-- #strong[CAR:] Challenge Action Result
-
-- #strong[CAR:] Challenge Action Result
-
-#strong[Job Title,] #link("https://www.fstl1992.com/")[Company] – City, ST June
-2014 – July 2014\
-
-- Start each bullet with a
-  #link("https://old.reddit.com/r/EngineeringResumes/wiki/index#wiki_action_verbs")[#underline[strong, past-tense action verb];]
-
-- Having trouble coming up with content for your bullet points? Read these:
-  #link(
-    "https://old.reddit.com/r/EngineeringResumes/wiki/index#wiki_having_trouble_coming_up_with_content_for_your_bullet_points.3F_ask_yourself_the_following_questions.3A",
-  )[#underline[link 1];];,
-  #link(
-    "https://old.reddit.com/r/EngineeringResumes/wiki/index#wiki_got_writer.27s_block_from_looking_at_star.2Fcar.2Fxyz.3F",
-  )[#underline[link 2];];,
-  #link("https://archive.ph/Xmdqt")[#underline[link 3];];,
-  #link("https://old.reddit.com/r/EngineeringResumes/wiki/sample-bullet-points")[#underline[link 4];]
-
-- Each bullet point should be 1–2 lines long and max 1 sentence long. Use #link("https://quillbot.com/")[#underline[Quillbot];];,
-  #link(
-    "https://languagetool.org/paraphrasing-tool",
-  )[#underline[LanguageTool];];, and #link("https://hemingwayapp.com/")[#underline[Hemingway Editor];]
-  to help you
-  #link("https://www.youtube.com/watch?v=VvPaEsuz-tY")[paraphrase and shorten them]
-
-- Don’t let bullets spill onto the next line with only 1–4 words on it, it’s a
-  huge waste of space #link("https://imgur.com/QCcZ792")
-
-= Projects
-<projects>
-#strong[Project Title]
-#link("https://github.com/matiassingers/awesome-readme")[github.com/name/project]
-\
-
-- The more work experience you have, the less relevant outside-work projects tend
-  to become
-
-- If you have something that really stands out, consider listing it here
-
-#strong[Project Title]
-#link("https://mitcommlab.mit.edu/meche/commkit/portfolio/")[project.com]
-\
-
-- Only list real projects, not mandatory school projects or trivial tutorial
-  projects found online
-
-- Something that someone uses to solve a problem
-
-- Something that has users \(can be just you, as long as you use it often) and is
-  actively maintained and not just rotting in a GitHub repo, never to see a PR for
-  the rest of its life
-
-#strong[Project Title]
-#link("https://www.hardwareishard.net/portfolio-database")[blog.com/projectname]
-\
-
-- Resume checklist:
-  #link("https://old.reddit.com/r/EngineeringResumes/wiki/checklist")
-
-- Google Docs version of this template:
-  #link("https://docs.google.com/document/d/1MBvhATv8y-ESORopRoLSZ3f3HjkM_Qa_f8fIHAEqgnI/edit")
+- Presented modeling and simulation demonstrations to customers on a
+  regular basis to iteratively refine requirements and ensure the
+  quality of the final product.
 
 = Education
 <education>
-#strong[#link("https://www.southharmoninstituteoftechnology.org/")[School];]
-– PhD in Mechanical Engineering May 2010\
-#strong[#link("https://www.southharmoninstituteoftechnology.org/")[School];]
-– MS in Mechanical Engineering June 2006\
-#strong[#link("https://www.southharmoninstituteoftechnology.org/")[School];]
-– BS in Mechanical Engineering Apr 2004
+#strong[#link("https://cs.mines.edu")[Colorado School of Mines];] – MS
+Computer Science May 2025 \
+
+- Specialized in machine learning and computer vision #emph[GPA: 3.73]
+
+#strong[#link("https://cs.mines.edu")[Colorado School of Mines];] – BS
+Computer Science May 2023 \
+
+- C-MAPP Scholarship for FTI and Tyler Technologies #emph[GPA: 3.97]
+
+- Dean’s List
+
+= Certificates
+<certificates>
+#strong[Mines Cyber Defense Education Certificate];, Colorado School of
+Mines May 2023 \
+
+= Projects
+<projects>
+#strong[Let Us Cook]
+#link("https://github.com/suasuasuasuasua/LetUsCook")[github.com/suasuasuasuasua/LetUsCook]
+\
+
+- Developed a recipe application for macOS that provides users with an
+  intuitive way to create and manage recipes and budget their grocery
+  shopping for the week
+
+- The application follows an MVVM architecture and is written in Swift
+  with SwiftUI and SwiftData as the frontend and backend
+
+LaTeX  #strong[Development Environment]
+#link("https://github.com/suasuasuasuasua/resume-template")[github.com/suasuasuasuasua/resume-template]
+\
+
+- Created a development container for LaTeX, providing a comprehensive
+  and self-contained environment for writing professional resumes. This
+  environment includes all necessary packages and tools for compiling
+  LaTeX, offers built-in version control with git, and can be used with
+  any text editor, eliminating the need for an internet connection and
+  paid services like Overleaf
+
+- The Docker image is hosted on the GitHub Container Registry, and the
+  resume template is available as a public template repository on GitHub
