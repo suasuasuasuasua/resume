@@ -48,8 +48,12 @@ technologies and industry trends.
 = Experience
 #chiline()
 
+*Software Engineer*
+#link("https://www.lockheedmartin.com/en-us/capabilities/space.html")[Lockheed Martin Space] - Littleton, CO #h(1fr) Jan 2025 - Present
+- blah blah blah
+
 *Software Engineer Asc.*
-#link("https://www.lockheedmartin.com/en-us/capabilities/space.html")[Lockheed Martin Space] - Littleton, CO #h(1fr) May 2023 - Present
+#link("https://www.lockheedmartin.com/en-us/capabilities/space.html")[Lockheed Martin Space] - Littleton, CO #h(1fr) May 2023 - Jan 2025
 - Worked in research and development, supporting cutting-edge projects
   from various stages of technical readiness levels by valdiating
   theoretical assertions for satellite communication and radar systems
