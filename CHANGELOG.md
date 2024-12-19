@@ -1,3 +1,5 @@
+# CHANGELOG
+
 ## 0.1.0 (2024-12-18)
 
 ### Feat
@@ -8,7 +10,10 @@
 - added typst process
 - added typst and pandoc setup
 - added devenv setup
-- Update resume with latest experience and skills Added more details about research and development Fixed indenting formatting Added AWS EC2 as a skill and a few more Linux distros
+- Update resume with latest experience and skills Added more details about
+research and development
+- Fixed indenting formatting Added AWS EC2 as a skill and a few more Linux
+distros
 - Added all sections for summer 2024 resume
 - Add basic sections for LaTeX resume
 
