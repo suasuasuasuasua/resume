@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 0.1.1 (2024-12-19)
+
+### Fix
+
+- reducing scope of permissions in workflow
+
 ## 0.1.0 (2024-12-18)
 
 ### Feat
