@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 0.2.0 (2025-02-11)
+
+### Feat
+
+- updated major GPA and added better projects
+
 ## 0.1.1 (2024-12-19)
 
 ### Fix
