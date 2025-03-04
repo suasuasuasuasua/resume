@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 0.2.1 (2025-03-04)
+
+### Fix
+
+- small tweaks for typos and wording
+
 ## 0.2.0 (2025-02-11)
 
 ### Feat
