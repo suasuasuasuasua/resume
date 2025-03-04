@@ -26,13 +26,12 @@
 = Summary
 #chiline()
 
-Motivated software engineer with a background in developing analytical
-frameworks as well as modeling and simulation. Experienced in research and
-development. *Hold an active TS/SCI clearance as of May 2024*. Effective in
-project management with agile methodologies and software architecture and
-planning. Strong interest in artificial intelligence and machine learning.
-Committed to continuous learning and staying up-to-date with the latest
-technologies and industry trends.
+Motivated software engineer with a background in data presentation and modeling and
+simulation. Experienced in research and development. *Hold an active TS/SCI
+clearance as of May 2024*. Effective in project management with agile
+methodologies and software architecture and planning. Strong interest in
+artificial intelligence and machine learning. Committed to continuous learning
+and staying up-to-date with the latest technologies and industry trends.
 
 = Skills
 #chiline()
@@ -40,8 +39,8 @@ technologies and industry trends.
 #list(
   [*Programming Languages*: C, C++, Python, Swift, Nix, Java, C\#, Bash],
   [*Operating Systems*: Windows, Linux (Debian, RHEL, NixOS, Arch), macOS],
-  [*DevOps Tools*: Docker, Podman, AWS EC2],
-  [*Project Management*: Git, Github, Gitlab, Jira],
+  [*DevOps Tools*: Docker, Podman, AWS EC2, GitHub Actions],
+  [*Project Management*: Git, GitHub, Gitlab, Jira],
   marker: [],
 )
 
@@ -50,16 +49,15 @@ technologies and industry trends.
 
 *Software Engineer Asc.*
 #link("https://www.lockheedmartin.com/en-us/capabilities/space.html")[Lockheed Martin Space] - Littleton, CO #h(1fr) May 2023 - Present
-- Worked in research and development, supporting cutting-edge projects from
-  various stages of technical readiness levels by valdiating theoretical
-  assertions for satellite communication and radar systems with realistic
-  software simulations and modeling
+- Worked in research and development, supporting projects from various stages of
+  technical readiness levels by validating theoretical assertions for satellite
+  communication and radar systems with realistic software modeling and simulation
 - Designed an analytical framework in Python to assess the performance of the
   wideband electronically steered array (ESA) for the
   #link("https://news.lockheedmartin.com/ESA_payload_demonstrator")[Tantrum ESA
     demonstration]
-- Received recognition at the 2024 Lockheed Martin Space Awards Night for
-  exceptional contributions on the Tantrum program
+  - Received recognition at the 2024 Lockheed Martin Space Awards Night for
+    exceptional contributions on the Tantrum program
 - Acted as scrum master for a small team of software engineers by organizing
   weekly meetings, defining and tracking issues in Gitlab, and maintaining a
   strong line of communication with the customer
@@ -71,7 +69,8 @@ technologies and industry trends.
 #chiline()
 
 *#link("https://cs.mines.edu")[Colorado School of Mines]* - MS Computer Science #h(1fr) May 2025
-- Focus in data science and machine learning #h(1fr) #emph[GPA: 3.80]
+- Data Science and Machine Learning #h(1fr) #emph[GPA: 3.84]
+- Computer Architecture
 
 *#link("https://cs.mines.edu")[Colorado School of Mines]* - BS Computer Science #h(1fr) May 2023
 - C-MAPP Scholarship for FTI and Tyler Technologies #h(1fr) #emph[GPA: 3.97]
@@ -86,18 +85,18 @@ technologies and industry trends.
 
 *Homelab* (in progress)
 #h(1fr) #link("https://github.com/suasuasuasuasua/nixos-config")[github.com/suasuasuasuasua/nixos-config]
-- Hosted a home server running NixOS, ensuring declarative configuration and
+- Hosting a home server running NixOS, ensuring declarative configuration and
   deterministic builds
 - Learning about networking, computer hardware, security, the world of FOSS, and
   more
 
 *Personal Website* (in progress)
 #h(1fr) #link("https://github.com/suasuasuasuasua/personal-website")[github.com/suasuasuasuasua/personal-website]
-- Created personal website to showcase projects and resume, as well as foster a
+- Creating personal website to showcase projects and resume, as well as foster a
   personal space for thoughts and development through blog posts and tech
   showcases
-- Built using Next.js 15, built and deployed on Vercel, and features `nix` to
-  ensure deterministic builds and developer environments
+- Written in Typescript, built using Next.js 15, deployed on Vercel, and
+  features `nix` to ensure deterministic builds and developer environments
 
 *Let Us Cook*
 #h(1fr) #link("https://github.com/suasuasuasuasua/LetUsCook")[github.com/suasuasuasuasua/LetUsCook]
