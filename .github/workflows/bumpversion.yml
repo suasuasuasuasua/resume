@@ -64,9 +64,6 @@ jobs:
         with:
           body_path: "body.md"
           tag_name: ${{ steps.cz.outputs.version }}
-        # upload pdf on tag
-        if: github.ref_type == 'tag'
-        with:
           name: "${{ github.ref_name }} — ${{ env.DATE }}"
           files: main.pdf
         env:
