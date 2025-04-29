@@ -42,8 +42,8 @@ jobs:
           changelog_increment_filename: body.md
           git_redirect_stderr: true
           gpg_sign: false
-          git_name: ${{ steps.gpg.outputs.name }}
-          git_email: ${{ steps.gpg.outputs.email }}
+          # git_name: ${{ steps.gpg.outputs.name }}
+          # git_email: ${{ steps.gpg.outputs.email }}
 
       - name: Typst
         uses: lvignoli/typst-action@main
