@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 0.3.1 (2025-04-29)
+
+### Fix
+
+- commit using github bot
+
 ## 0.3.0 (2025-04-29)
 
 ### Feat
