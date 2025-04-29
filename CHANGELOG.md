@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## 0.3.0 (2025-04-29)
+
+### Feat
+
+- promotion to l2!
+
+### Refactor
+
+- added scaffolding for the next promotion
+
 ## 0.2.1 (2025-03-04)
 
 ### Fix
