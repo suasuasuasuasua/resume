@@ -26,7 +26,7 @@
 = Summary
 #chiline()
 
-Motivated software engineer with a background in data presentation and modeling and
+Software engineer with a background in data presentation and modeling and
 simulation. Experienced in research and development. *Hold an active TS/SCI
 clearance as of May 2024*. Effective in project management with agile
 methodologies and software architecture and planning. Strong interest in
@@ -37,8 +37,8 @@ and staying up-to-date with the latest technologies and industry trends.
 #chiline()
 
 #list(
-  [*Programming Languages*: C, C++, Python, Swift, Nix, Java, C\#, Bash],
-  [*Operating Systems*: Windows, Linux (Debian, RHEL, NixOS, Arch), macOS],
+  [*Programming Languages*: Python, C, C++, Java, Nix, C\#, Bash, Swift],
+  [*Operating Systems*: Windows, Linux (Debian, RHEL, NixOS), macOS],
   [*DevOps Tools*: Docker, Podman, AWS EC2, GitHub Actions],
   [*Project Management*: Git, GitHub, Gitlab, Jira],
   marker: [],
@@ -46,16 +46,16 @@ and staying up-to-date with the latest technologies and industry trends.
 
 = Experience
 #chiline()
-
-*Software Engineer*
-#link("https://www.lockheedmartin.com/en-us/capabilities/space.html")[Lockheed Martin Space] - Littleton, CO #h(1fr) Jan 2025 - Present
-- blah blah blah
-
+*Software Engineer.*
+#link("https://www.lockheedmartin.com/en-us/capabilities/space.html")[Lockheed Martin Space] - Littleton, CO #h(1fr) April 2025 - Present
+- Worked in research and development team, supporting projects from various
+  stages of technical readiness levels by validating satellite communication and
+  radar systems with software modeling and simulation
+- Presented modeling and simulation demonstrations to customers on a regular
+  basis to iteratively refine requirements and ensure the quality of the final
+  product.
 *Software Engineer Asc.*
-#link("https://www.lockheedmartin.com/en-us/capabilities/space.html")[Lockheed Martin Space] - Littleton, CO #h(1fr) May 2023 - Present
-- Worked in research and development, supporting projects from various stages of
-  technical readiness levels by validating theoretical assertions for satellite
-  communication and radar systems with realistic software modeling and simulation
+#link("https://www.lockheedmartin.com/en-us/capabilities/space.html")[Lockheed Martin Space] - Littleton, CO #h(1fr) May 2023 - April 2025
 - Designed an analytical framework in Python to assess the performance of the
   wideband electronically steered array (ESA) for the
   #link("https://news.lockheedmartin.com/ESA_payload_demonstrator")[Tantrum ESA
@@ -65,9 +65,6 @@ and staying up-to-date with the latest technologies and industry trends.
 - Acted as scrum master for a small team of software engineers by organizing
   weekly meetings, defining and tracking issues in Gitlab, and maintaining a
   strong line of communication with the customer
-- Presented modeling and simulation demonstrations to customers on a regular
-  basis to iteratively refine requirements and ensure the quality of the final
-  product.
 
 = Education
 #chiline()
@@ -97,10 +94,9 @@ and staying up-to-date with the latest technologies and industry trends.
 *Personal Website* (in progress)
 #h(1fr) #link("https://github.com/suasuasuasuasua/personal-website")[github.com/suasuasuasuasua/personal-website]
 - Creating personal website to showcase projects and resume, as well as foster a
-  personal space for thoughts and development through blog posts and tech
-  showcases
+  personal space for thoughts through blog posts and tech showcases
 - Written in Typescript, built using Next.js 15, deployed on Vercel, and
-  features `nix` to ensure deterministic builds and developer environments
+  uses `nix` to ensure deterministic builds and developer environments
 
 *Let Us Cook*
 #h(1fr) #link("https://github.com/suasuasuasuasua/LetUsCook")[github.com/suasuasuasuasua/LetUsCook]
