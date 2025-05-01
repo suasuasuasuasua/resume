@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 0.4.1 (2025-05-01)
+
+### Fix
+
+- change Typescript to TypeScript
+
 ## 0.4.0 (2025-05-01)
 
 ### Feat
