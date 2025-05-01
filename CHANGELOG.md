@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 0.3.2 (2025-05-01)
+
+### Fix
+
+- started on July 2023, not May 2023
+
 ## 0.3.1 (2025-04-29)
 
 ### Fix
