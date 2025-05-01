@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 0.3.3 (2025-05-01)
+
+### Fix
+
+- fixed grammatical mistake in software engineer experience
+
 ## 0.3.2 (2025-05-01)
 
 ### Fix
