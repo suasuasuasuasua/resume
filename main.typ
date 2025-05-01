@@ -48,7 +48,7 @@ and staying up-to-date with the latest technologies and industry trends.
 #chiline()
 *Software Engineer.*
 #link("https://www.lockheedmartin.com/en-us/capabilities/space.html")[Lockheed Martin Space] - Littleton, CO #h(1fr) April 2025 - Present
-- Worked in research and development team, supporting projects from various
+- Worked in a research and development team, supporting projects from various
   stages of technical readiness levels by validating satellite communication and
   radar systems with software modeling and simulation
 - Presented modeling and simulation demonstrations to customers on a regular
