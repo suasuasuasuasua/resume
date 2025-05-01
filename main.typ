@@ -96,7 +96,7 @@ and staying up-to-date with the latest technologies and industry trends.
 #h(1fr) #link("https://github.com/suasuasuasuasua/personal-website")[github.com/suasuasuasuasua/personal-website]
 - Creating personal website to showcase projects and resume, as well as foster a
   personal space for thoughts through blog posts and tech showcases
-- Written in Typescript, built using Next.js 15, deployed on Vercel, and
+- Written in TypeScript, built using Next.js 15, deployed on Vercel, and
   uses `nix` to ensure deterministic builds and developer environments
 
 *Let Us Cook*
