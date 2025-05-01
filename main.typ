@@ -55,7 +55,7 @@ and staying up-to-date with the latest technologies and industry trends.
   basis to iteratively refine requirements and ensure the quality of the final
   product.
 *Software Engineer Asc.*
-#link("https://www.lockheedmartin.com/en-us/capabilities/space.html")[Lockheed Martin Space] - Littleton, CO #h(1fr) May 2023 - April 2025
+#link("https://www.lockheedmartin.com/en-us/capabilities/space.html")[Lockheed Martin Space] - Littleton, CO #h(1fr) July 2023 - April 2025
 - Designed an analytical framework in Python to assess the performance of the
   wideband electronically steered array (ESA) for the
   #link("https://news.lockheedmartin.com/ESA_payload_demonstrator")[Tantrum ESA
