@@ -39,6 +39,7 @@ and staying up-to-date with the latest technologies and industry trends.
 #list(
   [*Programming Languages*: Python, C, C++, Java, Nix, C\#, Bash, Swift],
   [*Operating Systems*: Windows, Linux (Debian, RHEL, NixOS), macOS],
+  [*Analysis*: Digital Signal Processing],
   [*DevOps Tools*: Docker, Podman, AWS EC2, GitHub Actions],
   [*Project Management*: Git, GitHub, Gitlab, Jira],
   marker: [],
