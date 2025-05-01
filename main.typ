@@ -64,7 +64,7 @@ and staying up-to-date with the latest technologies and industry trends.
   - Received recognition at the 2024 Lockheed Martin Space Awards Night for
     exceptional contributions on the Tantrum program
 - Acted as scrum master for a small team of software engineers by organizing
-  weekly meetings, defining and tracking issues in Gitlab, and maintaining a
+  weekly meetings, defining and tracking issues in GitLab, and maintaining a
   strong line of communication with the customer
 
 = Education
