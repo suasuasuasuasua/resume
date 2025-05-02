@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 0.4.5 (2025-05-02)
+
+### Fix
+
+- added STK to analysis list
+
 ## 0.4.4 (2025-05-02)
 
 ### Fix
