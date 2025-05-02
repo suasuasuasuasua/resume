@@ -41,7 +41,7 @@ and staying up-to-date with the latest technologies and industry trends.
   [*Operating Systems*: Windows, Linux (Debian, RHEL, NixOS), macOS],
   [*Analysis*: Digital Signal Processing],
   [*DevOps Tools*: Docker, Podman, AWS EC2, GitHub Actions],
-  [*Project Management*: Git, GitHub, Gitlab, Jira],
+  [*Project Management*: Git, GitHub, GitLab, Jira],
   marker: [],
 )
 
