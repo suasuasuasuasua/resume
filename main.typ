@@ -58,7 +58,7 @@ and staying up-to-date with the latest technologies and industry trends.
 *Software Engineer Asc.*
 #link("https://www.lockheedmartin.com/en-us/capabilities/space.html")[Lockheed Martin Space] - Littleton, CO #h(1fr) July 2023 - April 2025
 - Designed an analytical framework in Python to assess the performance of the
-  wideband electronically steered array (ESA) for the
+  wideband electronically steered antenna (ESA) for the
   #link("https://news.lockheedmartin.com/ESA_payload_demonstrator")[Tantrum ESA
     demonstration]
   - Received recognition at the 2024 Lockheed Martin Space Awards Night for
