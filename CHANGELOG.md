@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 0.4.4 (2025-05-02)
+
+### Fix
+
+- accidentally forgot to capitalize one GitLab
+
 ## 0.4.3 (2025-05-02)
 
 ### Fix
