@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 0.4.3 (2025-05-02)
+
+### Fix
+
+- corrected ESA definition -m antenna not array igg??
+
 ## 0.4.2 (2025-05-01)
 
 ### Fix
